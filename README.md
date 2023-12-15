@@ -18,5 +18,10 @@ CEMS is an application designed to facilitate efficient management of course exa
 *Accept requests from lecturers: Head department members can review and approve/reject exam-related requests from lecturers.<br>
 *View system-wide data: The head department can access comprehensive data and reports on the system's performance and activities.<br><br>
 
+# UseCace & Class Diagram
+![Screenshot 2023-12-15 192746](https://github.com/omarsaleh19/CEMS-system/assets/121203256/8a905cef-e06b-4953-976b-bab8c2106191)
+![Screenshot 2023-12-15 193029](https://github.com/omarsaleh19/CEMS-system/assets/121203256/d256950a-c8e2-45db-97da-86db883c26fa)
+
 # Youtube Video
 [See How Our App Works](https://www.youtube.com/watch?v=2MxUqiQuB-c)
+
